@@ -1,6 +1,6 @@
 # this is simple socket.io message app 
 
-# group chat app 
+# group chat app with differnet people 
 
 
 
