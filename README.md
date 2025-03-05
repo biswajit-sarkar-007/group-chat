@@ -1,6 +1,14 @@
-# this is simple socket.io message app 
+this is simple socket.io message app that communicate with in a specific room/chat with multiple people , in real time the messages will transfer one person to another perosn 
 
-# group chat app with differnet people 
+
+## group chat app with differnet people 
+
+# tech stack : 
+1. socket.io
+2. Javascripts
+3. Node js
+4. Html
+5. CSS
 
 
 
